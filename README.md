@@ -6,3 +6,5 @@ PHP was used to symulate this website.
 
 
 <img width="2495" height="1587" alt="Screenshot 2025-08-29 032123" src="https://github.com/user-attachments/assets/d8bd2e4e-97f7-42fe-a3b9-a118c83805f6" />
+
+Author : Eshun Kingsley Mintah
